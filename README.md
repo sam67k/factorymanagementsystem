@@ -3,4 +3,4 @@
 Subjects:
 
 - OOSE(object oriented software engineering)
-- DBMS(database management system) part
+- DBMS(database management system)
